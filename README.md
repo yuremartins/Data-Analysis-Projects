@@ -26,7 +26,7 @@ Projects dedicated to data analysis
 ## EDA: Power BI
 
 
-> Dados: [Database]([https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data/csse_covid_19_daily_reports](https://github.com/yuremartins/Data-Analysis-Projects/blob/main/EDA-BI/Database.xlsx)).
+> Dados: [Database](https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data/csse_covid_19_daily_reports](https://github.com/yuremartins/Data-Analysis-Projects/blob/main/EDA-BI/Database.xlsx).
 
 > Ferramentas: [Power BI](https://app.powerbi.com/view?r=eyJrIjoiN2MwMmE5YTUtNWNjNS00OGY0LWExYWMtNGY5MDgzYTNkNzg3IiwidCI6ImU4Y2YyNjM5LTFmOTgtNGJiNC1iZDg5LWFiZDE0OTI4OTM3ZiJ9).
 
